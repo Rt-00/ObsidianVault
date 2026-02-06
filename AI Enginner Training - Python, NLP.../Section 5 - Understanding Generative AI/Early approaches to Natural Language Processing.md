@@ -1,0 +1,9 @@
+Natural Language Processing (NLP), é um campo da ciência da computação que estuda como os computadores entendem, interpretam e geram dados de linguagem humana. Surgiu por volta da década de 1950. No inicio os primeiros métodos de PNL se concentravam em sistemas baseados em regras, que usavam regras gramaticais do idioma para tentar processar o texto.
+
+Por exemplo, ao projetar esse sistema, eu poderia estabelecer uma regra para tratar frases que começam com "Can you", "Will you" ou "Is it" como pergunta, então quando o sistema processar a frase: "Can you help me?", ele reconhecerá como pergunta.
+
+No final da década de 1980, principalmente, no início da década de 1990, surgiu a Statistical NLP, marcando uma mudança dos sistemas baseados em regras para uma abordagem probabilística que interpreta os dados linguísticos por meio de uma extensa análise de dados. Nos anos 90, um estatístico poderia ter sido encarregado de projetar um programa para identificar se "can" é usado como substantivo ou verbo em uma frase. A diferença é muito importante porque, como verbo, "can" descreve a capacidade de uma pessoa fazer ou realizar algo, enquanto que, como substantivo, refere-se a um recipiente como uma lata de Coca-Cola. Assim, nos anos 90, eu teria que reunir muitas frases que contivessem a palavra can e fazer anotações, se a palavra fosse usada como substantivo ou verbo em qualquer uma dessas frases, isso me permitiria realizar uma análise de contexto. analisando outras palavras com as quais "can"foi usado.
+
+Por exemplo, a análise pode revelar que, quando palavras como "you" ou "I" estão próximas de "can", isso normalmente indica um verbo. Por outro lado, se palavras como "soda" forem usadas na frase, provavelmente temos um substantivo.
+
+O objetivo final dessa análise é obter um modelo capaz de indicar a probabilidade de "can" ser um verbo ou um substantivo em uma determinada frase, com base nas frequências calculadas anteriormente.

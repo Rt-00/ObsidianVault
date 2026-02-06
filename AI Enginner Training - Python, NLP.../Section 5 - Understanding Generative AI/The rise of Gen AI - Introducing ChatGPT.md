@@ -1,0 +1,1 @@
+Em novembro de 2022, a OpenAI lançou o ChatGPT 3.5, um modelo ajustado para o diálogo e treinado para produzir texto. Um dos lançamentos de produtos mais bem-sucedidos e impressionantes da história. Mais de 1 milhão de pessoas criaram uma conta em apenas uma semana e começaram a utilizar o algorítimo.
