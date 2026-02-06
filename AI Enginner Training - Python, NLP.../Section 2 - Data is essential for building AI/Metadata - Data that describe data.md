@@ -1,0 +1,5 @@
+O principal avanço para AI é a digitalização da nossa vida (Lojas Online. Telefone celulares, câmeras, mídias sociais, sensores, dispositivos de internet, IOT). Isso não são só mais dados, mas também, mais dados de qualidade. Esse aumento nos dados de qualidade impulsionou significativamente o desenvolvimento da IA.
+
+Mas como as pessoas reconhecem e entendem cada vez mais os dados digitas? Pois muitos desses dados não são estruturados e são volumosos demais para serem rotulados. A resposta é METADATA. Metadata são os dados que descrevem outros dados. Ele resume os principais detalhes de um arquivo, como: tipo, data de criação. autor, uso, tamanho do arquivo e tudo mais.
+
+Voltando no exemplo anterior (Dataset de animais que foi filtrado e virou um dataset de cachorros). Cada foto inclui o nome do animal, data de foto, fotógrafo, tamanho do arquivo, e muito mais. Independente se você usa dados não ordenados ou não rotulados é necessário incluir os metadados.
