@@ -1,0 +1,13 @@
+Langchain, uma ferramenta valiosa para desenvolver aplicativos movidos por IA, é um ambiente de orquestração de código aberto disponível em Python e JavaScript. Ele permite que você crie um aplicativo e use qualquer modelo de fundação que você gostaria com ele. 
+
+Você não precisa reescrever o código, porque os componentes modulares de Langchain, como funções e classes de objetos, podem substituir um modelo de fundação por outro de forma estruturada e fácil de implementar. 
+
+Assim como construir com blocos de construção Lego, você pode facilmente substituir uma peça por outra, e continuar construindo para a frente sem problemas. Da mesma forma, Langchain permite que os desenvolvedores integrem vários modelos de fundação e fontes de dados externas. A plataforma serve essencialmente como uma biblioteca, oferecendo uma coleção de componentes e padrões de programação comumente usados. 
+
+Essas ferramentas são adaptadas para ajudar os desenvolvedores a trabalhar eficientemente com modelos de linguagem, simplificando tarefas complexas. Isso ajuda os desenvolvedores a economizar tempo e impede que seus aplicativos de código inconsistente. Aqui está um exemplo. Digamos que você queira integrar um chatbot de IA em seu produto. Então, sem Langchain, você selecionaria manualmente um modelo de linguagem, como o GPT do OpenAI. Em seguida, você precisaria integrar a API. Lidar com consultas de usuários. Pré-processar estes em um formato adequado para o modelo, e finalmente, interpretar as respostas do modelo de linguagem para fornecer respostas claras ao usuário. Este processo requer conhecimento detalhado de APIs, manipulação de pedidos e formatação de dados em Python. 
+
+Alternativamente, Langchain permite que você use componentes pré-construídos para construir chatbots. Você utiliza esses componentes para lidar com as interações da API, o pré-processamento de dados e a geração de resposta. Por exemplo, se um usuário perguntar, como está o tempo em Nova York hoje? Langchain pode gerenciar todo o fluxo de trabalho, desde entender a pergunta até buscar e formatar a resposta apropriada, reduzindo significativamente a complexidade e quantidade de código necessário. 
+
+Esta vantagem de ferramentas é que dá aos desenvolvedores uma maneira rápida e amigável de integrar LLMs em seus aplicativos.
+
+Ao mesmo tempo, Langchain permite menos personalização do que escrever todas as integrações LLM manualmente. Outro caso de uso frequente de Langchain é adicionar memória de longo prazo a aplicativos como chatbots, assistentes virtuais e sistemas de suporte ao cliente. Isso ajuda os sistemas de IA a melhorar suas interações e tornar-se mais inteligente, considerando a história de conversas anteriores.

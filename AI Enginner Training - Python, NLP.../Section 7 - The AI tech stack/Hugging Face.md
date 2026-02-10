@@ -1,0 +1,7 @@
+Hugging Face é um dos principais defensores da IA de código aberto, promovendo a colaboração em modelos, conjuntos de dados e aplicativos dentro da comunidade de aprendizado de máquina. Hugging Face é muitas vezes referido como o GitHub de machine learning porque ele tem como objetivo promover o código aberto ML e IA. 
+
+Para treinar um modelo de transformador NLP de última geração, você precisa investir fundos significativos, o que, como dissemos antes, não é viável para startups e pequenas empresas. 
+
+Hugging Face ajuda a democratizar o processo dando a todos acesso a modelos pré-treinados, que podem ser encontrados em sua plataforma. Tais modelos estão disponíveis livremente e podem ser usados para desenvolver IA proprietária, evitando as despesas maciças necessárias para treinar um LLM do zero. Além disso, Hugging face introduziu a biblioteca Transformers Python, o que é muito útil porque permite aos desenvolvedores de IA acessar modelos pré-treinados facilmente através de uma API. 
+
+Além disso, a biblioteca Transformers fornece uma maneira eficiente de criar tubulações de aprendizado de máquina. Com Hugging Face, os usuários podem compartilhar modelos ML, usar modelos pré-treinados, modelos ML de ajuste fino, pós-demos e avaliar modelos ML. Fundada em 2016, o Hugging Face agora possui avaliação superior a US$ 4,5 bilhões, indicando recursos substanciais e status comercial. 
