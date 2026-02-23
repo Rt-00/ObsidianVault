@@ -1,5 +1,3 @@
-Já mencionei que nossa equipe construiu um aplicativo simulador de entrevista alimentado pela GPT. 
-
 A fase mais desafiadora do processo de desenvolvimento não foi preparar o banco de dados com perguntas de entrevista para serem alimentadas à IA ou ao trabalho do desenvolvedor. Em vez disso, descobrimos que gastamos mais tempo em Prompt Engineer da IA e QAing suas respostas. 
 
 Isso destacou uma questão vital que todos constroem produtos de IA, avaliação de modelo. 

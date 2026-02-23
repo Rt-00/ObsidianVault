@@ -1,0 +1,5 @@
+Vamos ilustrar até onde chegou o NLP e o quanto ele interage com nossas vidas diárias com alguns exemplos. 
+
+Um exemplo chave é os motores de busca que usam NLP para entender a consulta de um usuário e fornecer resultados de pesquisa relevantes. Técnicas NLP são usadas para extrair palavras-chave, entender a intenção da consulta do usuário e retornar páginas relevantes e correspondentes. Outro ótimo exemplo é como sua conta de e-mail pode detectar automaticamente e-mails de spam. Além disso, os algoritmos de localização podem ser usados para encontrar padrões que diferenciem entre emails indesejados e legítimos.
+
+Sistemas de suporte ao cliente e chatbots também usam o NLP para entender consultas de clientes. Os cientistas de dados podem construir agentes conversacionais que podem entender o que o cliente está pedindo e fornecer respostas relevantes de volta. Há tantos outros exemplos que podemos passar e encorajo-vos a tentar pensar em mais alguns. No final deste curso, você terá os blocos de construção iniciais para começar a construir suas próprias soluções NLP.
